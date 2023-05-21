@@ -1,11 +1,17 @@
 # CPT
 Cross-protein transfer learning for variant effect prediction
 
-This repository contains the variant effect preditions of CPT-1 for 18,602 human proteins, initially released with the manuscript "Cross-protein transfer learning substantially improves zero-shot prediction of disease variant effects". The proteins are split into two sets.
+This repository contains the codes and data for reproducing main results from the manuscript "Cross-protein transfer learning substantially improves zero-shot prediction of disease variant effects".
 
-`transter_proteome_eve`: Proteins in the EVE set ([Frazer et al., 2021](https://www.nature.com/articles/s41586-021-04043-8))
+`analysis.ipynb`: Jupyter notebook for the main analyses.
+`CPT/`: Python files for models and utility functions.
+`data/`: Data necessary to train and evaluate the models.
 
-`transfer_proteome_xgimpute`: Proteins not in the EVE set. Predictions for these proteins use imputed values for features depending on the EVE MSA.
+We also provide pre-computed CPT-1 scores for 18,602 human proteins at
+1. [Zenodo](https://doi.org/10.5281/zenodo.7954657)
+2. [Huggingface](https://huggingface.co/spaces/songlab/CPT) (an interactive app to visualize and download of individual proteins)
+
+If the user would like to make whole-proteome predictions with the trained model by themselves, the feature matrices are available upon request.
 
 ## Citation
 
