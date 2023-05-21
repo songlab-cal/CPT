@@ -4,7 +4,9 @@ Cross-protein transfer learning for variant effect prediction
 This repository contains the codes and data for reproducing main results from the manuscript "Cross-protein transfer learning substantially improves zero-shot prediction of disease variant effects".
 
 `analysis.ipynb`: Jupyter notebook for the main analyses.
+
 `CPT/`: Python files for models and utility functions.
+
 `data/`: Data necessary to train and evaluate the models.
 
 We also provide pre-computed CPT-1 scores for 18,602 human proteins at
