@@ -11,9 +11,9 @@ This repository contains the codes and data for reproducing main results from th
 
 We also provide pre-computed CPT-1 scores for 18,602 human proteins at
 1. [Zenodo](https://doi.org/10.5281/zenodo.7954657)
-2. [Huggingface](https://huggingface.co/spaces/songlab/CPT) (an interactive app to visualize and download of individual proteins)
+2. [Huggingface](https://huggingface.co/spaces/songlab/CPT) (an interactive app to visualize and download individual proteins)
 
-If the user would like to make whole-proteome predictions with the trained model by themselves, the feature matrices are available upon request.
+If the user would like to generate whole-proteome predictions with the trained model by themselves, the feature matrices are available upon request.
 
 ## Citation
 
