@@ -23,4 +23,4 @@ Jagota, M.\*, Ye, C.\*, Albors, C., Rastogi, R., Koehl, A., Ioannidis, N., and S
 \*These authors contributed equally to this work. <br>
 &dagger;To whom correspondence should be addressed:  yss@berkeley.edu
 
-DOI: https://doi.org/10.1101/2022.11.15.516532
+DOI: https://doi.org/10.1186/s13059-023-03024-6
