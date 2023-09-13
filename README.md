@@ -18,7 +18,7 @@ If the user would like to generate whole-proteome predictions with the trained m
 ## Citation
 
 Jagota, M.\*, Ye, C.\*, Albors, C., Rastogi, R., Koehl, A., Ioannidis, N., and Song, Y.S.&dagger;<br>
-"Cross-protein transfer learning substantially improves zero-shot prediction of disease variant effects", bioRxiv (2022)
+"Cross-protein transfer learning substantially improves disease variant prediction", Genome Biology, 24, Article Number: 182 (2023).
 
 \*These authors contributed equally to this work. <br>
 &dagger;To whom correspondence should be addressed:  yss@berkeley.edu
